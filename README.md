@@ -5,10 +5,10 @@
 Spoken languages: EN :us: , FR :fr:
 
 ## Social
-You can find me on Twitter: https://twitter.com/SwitHak/
+You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 ## News in computer security field
-*every (normaly) week i release a quick resume with link about this domain*
+*every (normaly) week i release a quick resume with links about this domain*
 
 ## My Work
 - eBook: Introduction à Shodan.io [FR]
