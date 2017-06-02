@@ -4,7 +4,8 @@
 Source of the original text: http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm
 Source of the english translation: http://www.chinalawtranslate.com/cybersecuritylaw/?lang=en
 
-*Traduction EN :us: -> FR :FR:*
+*Traduction EN :us: -> FR :fr:*
+Author: @SwitHak
 
 # Chapitre I : Dispositions générales
 ### Article 1 : 
