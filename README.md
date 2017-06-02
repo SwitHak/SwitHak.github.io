@@ -17,6 +17,9 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 - eBook: Introduction à Shodan.io [FR]
 [Link to download](http://bit.ly/Shodan-HK)
 
+- Traduction: Loi Cybersécurité Chinoise [EN -> FR]
+[Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Loi-Cybers%C3%A9curit%C3%A9-Chinoise-2016.md)
+
 - Article: WannaCry ou l’histoire d’un ver surmédiatisé [FR]
 [Link to view](https://hackademics.fr/forum/news/hacking-news/73174-wannacry-ou-l%C2%92histoire-d%C2%92un-ver-surm%C3%A9diatis%C3%A9)
 
