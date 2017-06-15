@@ -14,8 +14,9 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 *Every (normally) week, i release a quick resume with links about this domain*
 
 ## My Work
-- eBook: Introduction à Shodan.io [FR]
-[Link to download](http://bit.ly/Shodan-HK)
+
+- Articles: Commentaires sur les règles du Manuel de Talinn 2.0 [FR]
+Règles: [1](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-1.md), [2](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-2.md)
 
 - Traduction: Loi Cybersécurité Chinoise [EN -> FR]
 [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Loi-Cybers%C3%A9curit%C3%A9-Chinoise-2016.md)
@@ -37,3 +38,6 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 - Article: Retour sur la fuite des outils de The EquationGroup (NSA) par Shadow Brokers [FR] (co-author)
 [Link to view](https://hackademics.fr/forum/news/hacking-news/68171-retour-sur-la-fuite-des-outils-de-the-equationgroup-nsa-par-shadow-brokers)
+
+- eBook: Introduction à Shodan.io [FR]
+[Link to download](http://bit.ly/Shodan-HK)
