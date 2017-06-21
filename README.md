@@ -5,7 +5,7 @@
 Spoken languages: EN :us: , FR :fr:
 
 ## My motto
-*No system is truly secure, if the attacker has time and ressources, it can compromises your information system!*
+*No system is truly secure, if the attacker has time and ressources, he can compromises your information system!*
 
 ## Social
 You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
