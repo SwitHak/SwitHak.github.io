@@ -16,4 +16,4 @@ Un autre point intéressant est que l’espionnage n’est pas considéré comme
 
 De plus, il est important de saisir que ce concept est désigné comme raisonnable, c’est-à-dire qu’il n’oblige pas à détecter mais demande une certaine surveillance et certains moyens non quantifiés car les experts reconnaissent aussi la sophistication des attaques et leur difficile attribution.
 
-Enfin, les experts approuvent à l’unanimité que si un groupe non-étatique agit sur demande d’un État alors ces activités peuvent alors être imputées à l’État demandeur.
+Enfin, les experts approuvent à l’unanimité que si un groupe non-étatique agit sur demande d’un État alors ces activités peuvent être imputées à l’État demandeur.
