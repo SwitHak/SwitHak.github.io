@@ -16,7 +16,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 ## My Work
 
 - Articles: Commentaires sur les règles du Manuel de Talinn 2.0 [FR]
-Règles: [1](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-1.md), [2](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-2.md), [3](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-3.md), [4](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-4.md), [5](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-5.md),[6](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-6.md),
+Règles: [1](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-1.md), [2](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-2.md), [3](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-3.md), [4](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-4.md), [5](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-5.md), [6](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-6.md),
 
 - Traduction: Loi Cybersécurité Chinoise [EN -> FR]
 [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Loi-Cybers%C3%A9curit%C3%A9-Chinoise-2016.md)
