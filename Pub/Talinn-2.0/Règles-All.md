@@ -1,0 +1,12 @@
+# Règles du Manuel de Talinn 2.0
+
+*Les articles ci-dessous sont des commentaires personnels de ma part sur l'ensemble des règles contenues dans cet ouvrage.*
+
+## Règles
+- [1. Souveraineté (Principe général)](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-1.md)
+- [2. Souveraineté interne](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-2.md)
+- [3. Souveraineté externe](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-3.md)
+- [4. Violation de la souveraineté](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-4.md)
+- [5. Immunité souveraine et inviolabilité](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-5.md)
+- [6. Due diligence (principe général)](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Talinn-2.0/R%C3%A8gle-6.md)
+- ....
