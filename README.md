@@ -15,7 +15,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 ## My Work
 
-- **En cours, Article portant sur l'analyse de NotPetya (prévu le 05 ou le 06 Juillet 2017 au plus tard)**
+- **En cours, Article portant sur l'analyse de NotPetya (reporté au 08 Juillet)**
 
 - Traduction: Slides de la présentation de Kaspersky et de Comae Technologies sur le logiciel malveillant NotPetya [EN -> FR]
 [Link to view](https://github.com/comaeio/slides/blob/master/Webinar%20-%20Comae%20%2B%20Kaspersky%20-%20Petya%20exPetr%20Ransomware%20-FR.pdf) (Specials thanks to Comae.io founder, Matt Suiche)
