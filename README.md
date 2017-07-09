@@ -15,7 +15,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 ## My Work
 
-- **En cours, Article portant sur l'analyse de NotPetya (reporté au 08 Juillet)**
+- Article: NOTPETYA-NYETYA-ETERNALPETYA-DISKCODER.C-PETRWRAP-Entre rançongiciel, attaque et malversations [Link to view](https://hackademics.fr/forum/news/hacking-news/73606-notpetya-nyetya-eternalpetya-diskcoder-c-petrwrap-entre-ran%C3%A7ongiciel) [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170709_NOTPETYA-NYETYA-ETERNALPETYA-DISKCODER.C-PETRWRAP-ENTRE-RAN%C3%87ONGICIEL-ATTAQUE-ET-MALVERSATIONS.pdf)
 
 - Traduction: Slides de la présentation de Kaspersky et de Comae Technologies sur le logiciel malveillant NotPetya [EN -> FR]
 [Link to view](https://github.com/comaeio/slides/blob/master/Webinar%20-%20Comae%20%2B%20Kaspersky%20-%20Petya%20exPetr%20Ransomware%20-FR.pdf) (Specials thanks to Comae.io founder, Matt Suiche)
@@ -27,7 +27,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Loi-Cybers%C3%A9curit%C3%A9-Chinoise-2016.md)
 
 - Article: WannaCry ou l’histoire d’un ver surmédiatisé [FR]
-[Link to view](https://hackademics.fr/forum/news/hacking-news/73174-wannacry-ou-l%C2%92histoire-d%C2%92un-ver-surm%C3%A9diatis%C3%A9)
+[Link to view](https://hackademics.fr/forum/news/hacking-news/73174-wannacry-ou-l%C2%92histoire-d%C2%92un-ver-surm%C3%A9diatis%C3%A9) [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170520-WannaCry-ou-l-histoire-d-un-ver-surmediatis%C3%A9-safe.pdf)
 
 - RETEX de la conférence : «Construire la paix et la sécurité internationales de la société numérique» (#SecNumConf) [FR]
 [Link to view](https://hackademics.fr/forum/orientation-%C3%A9tudes-s%C3%A9curit%C3%A9-informatique/conf%C3%A9rences-s%C3%A9curit%C3%A9-informatique/72596-retex-construire-la-paix-et-la-s%C3%A9curit%C3%A9-internationales-de-la-soci%C3%A9t%C3%A9-num%C3%A9rique)
