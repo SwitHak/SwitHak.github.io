@@ -15,6 +15,8 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 ## My Work
 
+- Article: WannaCry, mais où sont donc partis les Bitcoins? [FR] [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170408_NEWS_WannaCry-BTC-Wallets-Transactions.pdf)
+
 - Article: NOTPETYA-NYETYA-ETERNALPETYA-DISKCODER.C-PETRWRAP-Entre rançongiciel, attaque et malversations [FR] [Link to view](https://hackademics.fr/forum/news/hacking-news/73606-notpetya-nyetya-eternalpetya-diskcoder-c-petrwrap-entre-ran%C3%A7ongiciel) [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170709_NOTPETYA-NYETYA-ETERNALPETYA-DISKCODER.C-PETRWRAP-ENTRE-RAN%C3%87ONGICIEL-ATTAQUE-ET-MALVERSATIONS.pdf)
 
 - Traduction: Slides de la présentation de Kaspersky et de Comae Technologies sur le logiciel malveillant NotPetya [EN -> FR]
