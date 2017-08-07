@@ -32,7 +32,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 [Link to view](https://hackademics.fr/forum/news/hacking-news/73174-wannacry-ou-l%C2%92histoire-d%C2%92un-ver-surm%C3%A9diatis%C3%A9) [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170520-WannaCry-ou-l-histoire-d-un-ver-surmediatis%C3%A9-safe.pdf)
 
 - RETEX de la conférence : «Construire la paix et la sécurité internationales de la société numérique» (#SecNumConf) [FR]
-[Link to view](https://hackademics.fr/forum/orientation-%C3%A9tudes-s%C3%A9curit%C3%A9-informatique/conf%C3%A9rences-s%C3%A9curit%C3%A9-informatique/72596-retex-construire-la-paix-et-la-s%C3%A9curit%C3%A9-internationales-de-la-soci%C3%A9t%C3%A9-num%C3%A9rique)
+[Link to view](https://hackademics.fr/forum/orientation-%C3%A9tudes-s%C3%A9curit%C3%A9-informatique/conf%C3%A9rences-s%C3%A9curit%C3%A9-informatique/72596-retex-construire-la-paix-et-la-s%C3%A9curit%C3%A9-internationales-de-la-soci%C3%A9t%C3%A9-num%C3%A9rique) [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170416_RETEX-SecNumConf-06-07_Avril_2017.pdf)
 
 - RETEX de la conférence Journée Sécurité des Systèmes d'Information 2017 [FR]
 [Link to view](https://hackademics.fr/forum/orientation-%C3%A9tudes-s%C3%A9curit%C3%A9-informatique/conf%C3%A9rences-s%C3%A9curit%C3%A9-informatique/72120-retour-sur-la-jssi-2017)
