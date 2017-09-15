@@ -14,6 +14,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 *Every (normally) week, i release a quick resume with links about this domain*
 
 ## My Work
+- Picture: The Shadow Brokers Activity History resumed in 1 (BIG) picture [EN] [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170915_PIC-The-Shadow-Brokers-Activity-History.md)
 
 - Article: WannaCry, mais où sont donc partis les Bitcoins? [FR] [Link to view](https://www.comptoirsecu.fr/blog/2017-08-08-wannacry-mais-ou-sont-partis-les-bitcoins/) [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170408_NEWS_WannaCry-BTC-Wallets-Transactions.pdf)
 
