@@ -64,11 +64,11 @@ Thanks to the information found on these environments, attackers can better appr
 
 #### Good practices for all!
 There is no universal recipe on how to configure a test environment properly, but here are a few hints to prevent your tests from turning into a nightmare.
-- If you don't have the need to connect to the Internet and the Internet, you won't do it!
+- If you don't have the need to connect to the Internet and the internal network, you won't do it!
 - Notify the company's IT security services, you will do it!
-- Test games, you will anonymize (if possible)
+- Test samples, you will anonymize (if possible)
 - Upgrades to these systems, you won't forget!
-- The. txt with clear passwords on the desktop, you will not do!
+- The. txt with clear passwords on the desktop, you will don't!
 - The machines, once the tests are finished, you will delete!
 
 Other tips exist, the most important thing is that forgotten test machines should not become the entry point of attack by someone's negligence.
