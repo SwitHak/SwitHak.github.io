@@ -1,5 +1,6 @@
 # FRANCAIS :fr:
 
+[English version]()
 ## Quand les tests deviennent des vulnérabilités
 
 ### Une bonne intention...
@@ -46,7 +47,7 @@ In order to carry out these tests, a test environment is then configured. It is 
 It has network drives connected to folders containing the executable files put to the test bed, etc.
 These environments are not created to last over time and the security measures applied to them are very (too) often light when they are not non-existent.
 
-#####.... that can reveal a lot of Information...
+##### .... that can reveal a lot of Information... 
 Test environments are blessed bread for collecting information when they are not secured properly. They are often not known to security teams, and by extension, are not subject to general security practices or are intentionally concealed.
 These mines may reveal information useful for a future attack:
 - Software versions used
@@ -55,13 +56,13 @@ These mines may reveal information useful for a future attack:
 - Access to the company's internal network
 ... -...
 
-####... when it doesn't become the gateway to attack!
+#### ...when it doesn't become the gateway to attack!
 Poorly configured and exposed, the cocktail is often explosive. Test environments because of their weak (absence) security can become the entry points for attacking an information system. 
 It is easy to enter an exposed machine and use it as a pivot to access the internal reef. 
 Thanks to the information found on these environments, attackers can better apprehend and direct their actions to make them more relevant and, by extension, potentially more damaging.
 
 
-Good practices for all!
+#### Good practices for all!
 There is no universal recipe on how to configure a test environment properly, but here are a few hints to prevent your tests from turning into a nightmare.
 - If you don't have the need to connect to the Internet and the Internet, you won't do it!
 - Notify the company's IT security services, you will do it!
