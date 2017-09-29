@@ -10,7 +10,7 @@ Tester les applications, les mises à jour est plus que jamais nécessaire, et l
 Tester une application ou une mise à jour est un travail plutôt redondant, beaucoup d'automatisation est alors déployée afin de réduire au maximum les interactions utilisateurs avec l'environnement de test.
 Afin de bien mener ces derniers, un environnement de test est alors configuré. il est généralement basé sur le master de l'entreprise et contient des configurations spécifiques à l'entreprise. 
 Il a des lecteurs réseaux connectés aux dossiers contenant les fichiers exécutables mis au banc d'essai, etc.
-Ces environnements ne sont pas créés pour être durer dans le temps et les mesures de sécurité qui leur sont appliquées sont très (trop) souvent légères quand elles ne sont pas inexistantes.
+Ces environnements ne sont pas créés pour durer dans le temps et les mesures de sécurité qui leur sont appliquées sont très (trop) souvent légères quand elles ne sont pas inexistantes.
 
 ### ...qui peut révéler beaucoup d'Information...
 Les environnements de tests sont du pain béni pour la collecte d'information quand ils ne sont pas sécurisés correctement. Bien souvent, ils ne sont pas connus des équipes de sécurité, et par extension, ne sont pas soumis aux pratiques de sécurité générales ou celles-ci sont volontairement occultées.
