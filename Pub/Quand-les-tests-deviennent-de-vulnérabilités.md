@@ -54,7 +54,7 @@ These mines may reveal information useful for a future attack:
 - Identifiers and passwords
 - Test datasets [although anonymization of data should become more general](http://www.comptoirsecu.fr/podcast/%C3%A9pisode-46-protection-des-donn%C3%A9es-personnelles/)
 - Access to the company's internal network
-... -...
+- ...
 
 #### ...when it doesn't become the gateway to attack!
 Poorly configured and exposed, the cocktail is often explosive. Test environments because of their weak (absence) security can become the entry points for attacking an information system. 
