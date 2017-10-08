@@ -12,6 +12,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 ## News in computer security field
 *Every (normally) week, i release a quick resume with links about this domain*
+- [Week 2017-40](https://github.com/SwitHak/SH-News-Board/blob/master/week-2017-40.md)
 
 ## My Work
 - Picture: The Shadow Brokers Activity History summarized in 1 (BIG) picture [EN] [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170915_PIC-The-Shadow-Brokers-Activity-History.md)
