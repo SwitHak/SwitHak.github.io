@@ -9,9 +9,7 @@ Site: https://www.min2rien.fr/journee-secu-le-jeudi-9-novembre-2017/#
 ## Conférence
 ***Entre fuites, attaques, et mauvaises pratiques, I WannaCry !*** 
 
-Nous reviendrons sur la fuite des outils de la NSA divulgués par The Shadow Brokers, en analysant plus précisément les techniques de propagation utilisées par WannaCry et NotPetya et quelles en ont été les conséquences sur la sécurité des systèmes d'information. 
-Nous observerons aussi un volet géopolitique, nécessaire pour comprendre les enjeux cachés. 
-Enfin, nous donnerons quelques conseils pour modérer de futures attaques
+> Nous reviendrons sur la fuite des outils de la NSA divulgués par The Shadow Brokers, en analysant plus précisément les techniques de propagation utilisées par WannaCry et NotPetya et quelles en ont été les conséquences sur la sécurité des systèmes d'information. Nous observerons aussi un volet géopolitique, nécessaire pour comprendre les enjeux cachés. Enfin, nous donnerons quelques conseils pour modérer de futures attaques
 
 ## Liens
 Presentation PDF:
