@@ -13,4 +13,5 @@ Site: https://www.min2rien.fr/journee-secu-le-jeudi-9-novembre-2017/#
 
 ## Liens
 - Presentation PDF: https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Conferences/20171109-PREZ-TSB-NSA-WannaCry-NotPetya.pdf
+- Presentation Video : http://lille1tv.univ-lille1.fr/collections/video.aspx?id=8fc759dd-922c-4845-bf72-5768f463e719
 - WMI (Windows Management Instrumentation) : https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-windows-management-instrumentation.pdf
