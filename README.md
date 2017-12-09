@@ -15,7 +15,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 - [Week 2017-41](https://github.com/SwitHak/SH-News-Board/blob/master/Week-2017-41.md)
 
 ## My Work
-- Conference: Entre fuites, attaques, et mauvaises pratiques, I WannaCry! - MIN2RIEN [FR] [Link](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Conferences/20171109_JourneeSecu.md)
+- Speaker: Entre fuites, attaques, et mauvaises pratiques, I WannaCry! - MIN2RIEN [FR] [Link](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/Conferences/20171109_JourneeSecu.md)
 
 - Picture: The Shadow Brokers Activity History summarized in 1 (BIG) picture [EN] [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20170915_PIC-The-Shadow-Brokers-Activity-History.md)
 
