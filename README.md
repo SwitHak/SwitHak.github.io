@@ -15,6 +15,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 - [Week 2017-41](https://github.com/SwitHak/SH-News-Board/blob/master/Week-2017-41.md)
 
 ## My Work
+- ...
 
 - Thread Twitter: Translation of "The future of LPM (French Military Planning Act ) for the next 6 years (2019-2025) - {Cyberdefense Part only}" [FR -> EN] [Link to view](https://twitter.com/SwitHak/status/962162551592247296)
 
