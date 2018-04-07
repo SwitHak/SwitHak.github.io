@@ -10,10 +10,6 @@ Spoken languages: EN :us: , FR :fr:
 ## Social
 You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
-## News in computer security field
-*Every (normally) week, i release a quick resume with links about this domain*
-- [Week 2017-41](https://github.com/SwitHak/SH-News-Board/blob/master/Week-2017-41.md)
-
 ## My Work
 - ...
 
