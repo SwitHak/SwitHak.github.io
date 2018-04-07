@@ -2,7 +2,7 @@
 
 ## Who am i ?
 *Hello, I am a french #security professionnal interested in #cybersecurity issues and other content related to the previous theme!*
-Spoken languages: EN :us: , FR :fr:
+Spoken languages: EN, FR
 
 ## My motto
 *No system is truly secure, if the attacker has time and ressources, he can compromises your information system!*
