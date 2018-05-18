@@ -11,7 +11,7 @@ Spoken languages: EN, FR
 You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 ## My Work
-- [...](https://swithak.github.io/SH20TAATSB18/)
+- [Threat Activity Analysis: The Shadow Brokers Study](https://swithak.github.io/SH20TAATSB18/Home/)
 
 - Thread Twitter: Translation of "The future of LPM (French Military Planning Act ) for the next 6 years (2019-2025) - {Cyberdefense Part only}" [FR -> EN] [Link to view](https://twitter.com/SwitHak/status/962162551592247296)
 
