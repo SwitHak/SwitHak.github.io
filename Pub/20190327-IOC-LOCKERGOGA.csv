@@ -1,0 +1,109 @@
+ID #,Type,IP Address,Username,Password,URL,First submit,Creation time,Sample MD5,Sample SHA-128,Sample SHA-256,Comment,Hybrid Analysis,VTI,Any Run,Unit42,ANSSI,Talos,McAfee,ForcePoint,NioGuard,CarbonBlack,Kaspersky
+1,Hash,,,,,,,,,ae7e9839b7fb750128147a9227d3733dde2faacd13c478e8f4d8d6c6c2fc1a55,,No,No,No,YES,No,No,No,No,No,No,No
+2,Hash,,,,,,,,,f474a8c0f66dee3d504fff1e49342ee70dd6f402c3fa0687b15ea9d0dd15613a,,No,No,No,YES,No,No,No,No,No,No,No
+3,Hash,,,,,22/03/2019 06:10,18/03/2019 09:07,ab80456a964c7fc343a26bfadcad5ae1,fe2dcbf7da2910dbf29caa7d7166ab2ec36facfd,ffab69deafa647e2b54d8daf8c740b559a7982c3c7c1506ac6efc8de30c37fd5,,No,Yes,No,YES,No,No,No,No,No,No,No
+4,Hash,,,,,,,,,c1670e190409619b5a541706976e5a649bef75c75b4b82caf00e9d85afc91881,,No,No,No,YES,No,No,No,No,No,No,No
+5,Hash,,,,,21/03/2019 12:24,18/03/2019 09:07,438ebec995ad8e05a0cea2e409bfd488,3b8e32af16e1c351c93b307893fcb3018cc6502a,65d5dd067e5550867b532f4e52af47b320bd31bc906d7bf5db889d0ff3f73041,,Yes,Yes,Yes,YES,No,No,No,No,No,Yes,No
+6,Hash,,,,,,,,,31fdce53ee34dbc8e7a9f57b30a0fbb416ab1b3e0c145edd28b65bd6794047c1,,No,No,No,YES,No,No,No,No,No,No,No
+7,Hash,,,,,,,,,32d959169ab8ad7e9d4bd046cdb585036c71380d9c45e7bb9513935cd1e225b5,,No,No,No,YES,No,No,No,No,No,No,No
+8,Hash,,,,,,,,,e00a36f4295bb3ba17d36d75ee27f7d2c20646b6e0352e6d765b7ac738ebe5ee,,No,No,No,YES,No,No,No,No,No,No,No
+9,Hash,,,,,,,,,6d8f1a20dc0b67eb1c3393c6c7fc859f99a12abbca9c45dcbc0efd4dc712fb7c,,No,No,No,YES,No,No,No,No,No,No,No
+10,Hash,,,,,,,,,79c11575f0495a3daaf93392bc8134c652360c5561e6f32d002209bc41471a07,,No,No,No,YES,No,No,No,No,No,No,No
+11,Hash,,,,,,,,,050b4028b76cd907aabce3d07ebd9f38e56c48c991378d1c65442f9f5628aa9e,,No,No,No,YES,No,No,No,No,No,No,No
+12,Hash,,,,,,,,,1f9b5fa30fd8835815270f7951f624698529332931725c1e17c41fd3dd040afe,,No,No,No,YES,No,No,No,No,No,No,No
+13,Hash,,,,,,,,,276104ba67006897630a7bdaa22343944983d9397a538504935f2ec7ac10b534,,No,No,No,YES,No,No,No,No,No,No,No
+14,Hash,,,,,19/03/2019 14:12,18/03/2019 09:07,c2da604a2a469b1075e20c5a52ad3317,442ed0cac2abe062d8e630f3ece803af687751db,88d149f3e47dc337695d76da52b25660e3a454768af0d7e59c913995af496a0f,,Yes,Yes,Yes,YES,No,Yes,No,No,No,Yes,No
+15,Hash,,,,,19/03/2019 08:53,18/03/2019 09:07,e11502659f6b5c5bd9f78f534bc38fea,b5fd5c913de8cbb8565d3c7c67c0fbaa4090122b,c97d9bbc80b573bdeeda3812f4d00e5183493dd0d5805e2508728f65977dda15,,Yes,Yes,Yes,YES,No,Yes,Yes,Yes,No,Yes,No
+16,Hash,,,,,,,,,06e3924a863f12f57e903ae565052271740c4096bd4b47c38a9604951383bcd1,,No,No,No,YES,No,No,No,No,No,No,No
+17,Hash,,,,,,,,,a845c34b0f675827444d6c502c0c461ed4445a00d83b31d5769646b88d7bbedf,,No,No,No,YES,No,No,No,No,No,No,No
+18,Hash,,,,,12/03/2019 19:49,09/03/2019 17:50,7e3f8b6b7ac0565bfcbf0a1e3e6fcfbc,b2a701225c8c7f839be3c5009d52b4421063d93e,7bcd69b3085126f7e97406889f78ab74e87230c11812b79406d723a80c08dd26,,Yes,Yes,Yes,YES,No,Yes,No,Yes,No,No,No
+19,Hash,,,,,10/03/2019 19:46,09/03/2019 17:48,3b200c8173a92c94441cb062d38012f6,eb3eaaef52eafece1b91ced557e2071f1362f226,ba15c27f26265f4b063b65654e9d7c248d0d651919fafb68cb4765d1e057f93f,,Yes,Yes,No,YES,No,Yes,No,Yes,No,No,No
+20,Hash,,,,,08/03/2019 12:43,02/03/2019 19:41,16bcc3b7f32c41e7c7222bf37fe39fe6,a25bc5442c86bdeb0dec6583f0e80e241745fb73,eda26a1cd80aac1c42cdbba9af813d9c4bc81f6052080bc33435d1e076e75aa0,,Yes,Yes,Yes,YES,No,Yes,No,Yes,Yes,No,No
+21,Hash,,,,,08/02/2019 03:47,03/02/2019 15:32,b3d3da12ca3b9efd042953caa6c3b8cd,34fb03a35e723d27e99776ed3e81967229b3afe1,7852b47e7a9e3f792755395584c64dd81b68ab3cbcdf82f60e50dc5fa7385125,,Yes,Yes,No,YES,Yes,No,No,Yes,No,No,No
+22,Hash,,,,,06/02/2019 17:31,28/01/2019 18:13,a5bc1f94e7505a2e73c866551f7996f9,7dea7ff735023418b902d093964028aefbc486a5,14e8a8095426245633cd6c3440afc5b29d0c8cd4acefd10e16f82eb3295077ca,,Yes,Yes,No,YES,Yes,No,No,Yes,No,No,No
+23,Hash,,,,,05/02/2019 12:25,03/02/2019 17:48,faf4de4e1c5d8e4241088c90cfe8eddd,fcd241fdcd462199f2907ca34c73ce9c89b03e5f,47f5a231f7cd0e36508ca6ff8c21c08a7248f0f2bd79c1e772b73443597b09b4,,Yes,Yes,Yes,YES,Yes,No,No,Yes,No,No,No
+24,Hash,,,,,30/01/2019 09:49,23/01/2019 22:42,e8c7c902bcb2191630e10a80ddf9d5de,e00ec019409a078e9819e09d0f3915cb41fc131f,f3c58f6de17d2ef3e894c09bc68c0afcce23254916c182e44056db3cad710192,,Yes,Yes,No,YES,No,No,No,Yes,No,No,No
+25,Hash,,,,,28/01/2019 12:44,25/01/2019 16:30,19a5358eff7d8e0bf1c38a8cd4f85a53,baa9f65be5177d1af5c5e8e822d756c799bb03ae,9128e1c56463b3ce7d4578ef14ccdfdba15ccc2d73545cb541ea3e80344b173c,,Yes,Yes,Yes,YES,No,No,No,No,No,No,No
+26,Hash,,,,,27/01/2019 18:20,25/01/2019 16:30,a1d732aa27e1ca2ae45a189451419ed5,50f5a5ec13d21d4df119140547d63bc40f93b079,c3d334cb7f6007c9ebee1a68c4f3f72eac9b3c102461d39f2a0a4b32a053843a,,Yes,Yes,No,YES,Yes,Yes,No,No,No,No,No
+27,Hash,,,,,25/01/2019 23:59,25/01/2019 16:30,3ebca21b1d4e2f482b3eda6634e89211,37cdd1e3225f8da596dc13779e902d8d13637360,6e69548b1ae61d951452b65db15716a5ee2f9373be05011e897c61118c239a77,,Yes,Yes,Yes,YES,Yes,No,No,Yes,No,No,No
+28,Hash,,,,,25/01/2019 23:58,16/01/2019 19:27,164f72dfb729ca1e15f99d456b7cf811,f92339e73c7e901c0c852d8e65615cfb588a4ff6,8cfbd38855d2d6033847142fdfa74710b796daf465ab94216fbbbe85971aee29,,Yes,Yes,Yes,YES,Yes,No,No,Yes,No,No,No
+29,Hash,,,,,24/01/2019 09:41,23/01/2019 22:42,52340664fe59e030790c48b66924b5bd,73171ffa6dfee5f9264e3d20a1b6926ec1b60897,bdf36127817413f625d2625d3133760af724d6ad2410bea7297ddc116abc268f,,Yes,Yes,Yes,YES,Yes,No,No,Yes,No,No,No
+30,Hash,,,,,17/01/2019 06:43,16/01/2019 01:23,9cad8641ac79688e09c5fa350aef2094,3da0a217bbda09561780f52f163a6aafeb721d60,5b0b972713cd8611b04e4673676cdff70345ac7301b2c23173cdfeaff564225c,,Yes,Yes,Yes,YES,Yes,No,No,Yes,No,No,No
+31,Hash,,,,,08/01/2019 11:25,05/01/2019 11:33,174e3d9c7b0380dd7576187c715c4681,31fbfe814628db3b459ddc87bf5ed538700db17a,c7a69dcfb6a3fe433a52a71d85a7e90df25b1db1bc843a541eb08ea2fd1052a4,,Yes,Yes,Yes,YES,No,No,Yes,Yes,No,No,Yes
+32,Hash,,,,,,,06457b317d5624590803a77d3770bff2,,,,No,No,No,No,Yes,No,No,No,No,No,No
+33,Hash,,,,,,,,2a030cc6d84d5785f5e84d0f5888a411d4b06d01,,,No,No,No,No,Yes,No,No,No,No,No,No
+34,Hash,,,,,,,,2abae839362edfe52d9ebe282fb61113d22b331f,,,No,No,No,No,Yes,No,No,No,No,No,No
+35,Hash,,,,,,,,6995a32e0a4d4f6d0c9b2a00a96d69bff4b83ea7,,,No,No,No,No,Yes,No,No,No,No,No,No
+36,Hash,,,,,,,,87b1f17fbb4a1e8eef4cb31c1c0194b1426c868c,,,No,No,No,No,Yes,No,No,No,No,No,No
+37,Hash,,,,,,,,afc36916a4df934446681ea28bef6add4decb98a,,,No,No,No,No,Yes,No,No,No,No,No,No
+38,Hash,,,,,,,,f832d94391a8d2d5cf92773e6c912905ec7c40c7,,,No,No,No,No,Yes,No,No,No,No,No,No
+39,Hash,,,,,,,,056823c7891a04b2fec8903eb401ae3291743a54,,,No,No,No,No,Yes,No,No,No,No,No,No
+40,Hash,,,,,,,,b7afa7acf1b7ded2c4e3d0884b5cdaa230d9f82e,,,No,No,No,No,Yes,No,No,No,No,No,No
+41,Hash,,,,,,,,4b50b6b9157026ab408d966ece02d1cef8045f82,,,No,No,No,No,Yes,No,No,No,No,No,No
+42,Hash,,,,,02/02/2019 01:40,,db5e1b10130de2b984330cd891ef36bf,6042dfd50d33da40e383baec4a7ef7c75bf17481,e7ea56e4d23d7f096a11d535c87461bd2ff0cd2547c5ce9e7e63a405896d0672,8_32.exe,No,Yes,No,No,Yes,No,No,No,No,No,No
+43,Hash,,,,,,,,9b50fae63f4d8d402f30c487ca7216f610413642,,,No,No,No,No,Yes,No,No,No,No,No,No
+44,Hash,,,,,,,,781778f789185889259d2a8dec981e80098fa490,,,No,No,No,No,Yes,No,No,No,No,No,No
+45,Hash,,,,,,,,153d37f0f0660734a1e05cb67721c4ceff54919f,,,No,No,No,No,Yes,No,No,No,No,No,No
+46,Hash,,,,,,,,2d038fcd5987b2e7008b2e269b0a9ff968063ee8,,,No,No,No,No,Yes,No,No,No,No,No,No
+47,Hash,,,,,,,,9d2148cd22c245fc3ba7861a560d223f72f34414,,,No,No,No,No,Yes,No,No,No,No,No,No
+48,Hash,,,,,,,,c8207144f89c9d775ff5565888dbbc8167e09330,,,No,No,No,No,Yes,No,No,No,No,No,No
+49,Hash,,,,,,,,5131a7a011041e88b32a2a98e5170c42d5c57250,,,No,No,No,No,Yes,No,No,No,No,No,No
+50,Hash,,,,,,,,e925c3ba15f007363ad32b84df7da9b299b9b100,,,No,No,No,No,Yes,No,No,No,No,No,No
+51,Hash,,,,,,,,481b18bcbd9d32c5363bb56ab212d57d78497c05,,,No,No,No,No,Yes,No,No,No,No,No,No
+52,Hash,,,,,,,,2bcfd0679726f0110545b47b4512a8a4ddcb830f,,,No,No,No,No,Yes,No,No,No,No,No,No
+53,Hash,,,,,30/01/2019 01:41,29/01/2019 20:10,b83a2e832a288bca3d3a2546141e74b3,eaefb5e9ea2e0d301ee594e6358ea136442cd075,29663ff55c3bc588413c6281316da2589242b28aead2045dfc2895ac08693dad,test.exe,Yes,Yes,No,No,Yes,No,No,No,No,No,No
+54,Hash,,,,,,,,237b19af7c867b21f46793dd7257dff2f3be1513,,,No,No,No,No,Yes,No,No,No,No,No,No
+55,Hash,,,,,25/01/2019 18:55,09/01/2019 07:05,9d212b348c3ac16d0a1872a61f0b719c,f5619064f2d8aebfdba0fc3f566cb60f599f9f6e,229bd30b5410ba29b6451a0e733481e82ae5bb38fb03ef2453daf6886b0eec54,encryptor.exe,No,Yes,No,No,Yes,No,No,No,No,No,No
+56,Hash,,,,,,,,399d4d5ab0bdbe0b1a61bac007d56adff005486d,,,No,No,No,No,Yes,No,No,No,No,No,No
+57,Hash,,,,,17/01/2019 21:32,22/05/2018 13:24,644087ccca16d2a728ef7685a4106f09,eabd6974ac71efd72d9e0688d5a6131f336d169c,385e31c97e3a07bbb81513f0cd0979e64e6b014943902efd002f57b21eadd41e,,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No
+58,Hash,,,,,24/01/2019 13:52,,34187a34d0a3c5d63016c26346371b54,ce8209ff9828aa8cb095bd7d1589fc4d394c298c,5f815b8a8e77731c9ca2b3a07a27f880ef24d54e458d77bdabbbaf2269fe96c3,,No,Yes,No,No,Yes,No,No,No,No,No,No
+59,Hash,,,,,07/01/2019 18:30,11/01/2018 08:12,871aa15f4d61c85e1284e1be3f99f705,236eac0b19f91117b27f1b198a4d8490d99ec2e5,b434bccf0a5ff75b27184e661df751466aef69f35fbd7b8b8692302b8b886262,,No,Yes,No,No,Yes,No,No,No,No,No,No
+60,Hash,,,,,21/02/2019 15:29,,7b792de1468a70cfe990b65034d5f3ac,320f1fc66054e98681fd291415ff17b2e1a71b61,a89eac79ff230f3c270b465cd2d8c1225b8937bd4b069ac27872ac883082d82b,,Yes,Yes,No,No,Yes,No,No,No,No,No,No
+61,Hash,,,,,14/01/2019 08:21,05/01/2019 11:33,a52f26575556d3c4eccd3b51265cb4e6,61fdebb3c9dfa880b54e82579256acfcd4d6d406,97a2ab7a94148d605f3c0a1146a70ba5c436a438b23298a1f02f71866f420c43,,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes
+62,Hash,,,,,08/01/2019 11:23,11/05/2018 13:15,ba53d8910ec3e46864c3c86ebd628796,d1c2dfedc602f5d5f2036b0ba5541cac8f8b4b95,a84171501074bac584348f2942964c8550374c39247ec6af0f4a69756ea9fc7a,,No,yes,No,No,Yes,No,No,No,No,No,Yes
+63,IP,62.210.136.65,,,,,,,,,C2,,,,No,Yes,No,No,No,No,No,No
+64,IP,185.202.174.91,,,,,,,,,C2,,,,No,Yes,No,No,No,No,No,No
+65,IP,93.115.26.171,,,,,,,,,C2,,,,No,Yes,No,No,No,No,No,No
+66,IP,185.202.174.86,,,,,,,,,C2,,,,No,Yes,No,No,No,No,No,No
+67,IP,185.238.0.217,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+68,IP,185.70.105.158,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+69,IP,185.70.105.43,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+70,IP,185.70.184.134,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+71,IP,185.70.184.250,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+72,IP,185.70.187.21,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+73,IP,185.70.187.22,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+74,IP,185.70.187.23,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+75,IP,185.70.187.38,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+76,IP,185.70.187.46,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+77,IP,185.70.187.51,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+78,IP,185.70.187.53,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+79,IP,185.70.187.56,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+80,IP,185.70.187.65,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+81,IP,185.70.187.77,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+82,IP,185.70.187.79,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+83,IP,185.70.187.86,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+84,IP,185.70.187.88,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+85,IP,185.70.187.92,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+86,IP,31.192.108.122,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+87,IP,31.192.108.123,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+88,IP,31.207.44.118,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+89,IP,31.207.44.186,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+90,IP,31.207.44.77,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+91,IP,31.207.44.80,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+92,IP,31.207.44.83,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+93,IP,31.207.44.84,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+94,IP,31.207.45.251,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+95,IP,31.207.45.45,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+96,IP,5.39.219.168,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+97,IP,5.39.219.172,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+98,IP,5.39.219.183,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+99,IP,5.39.219.184,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+100,IP,5.39.219.185,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+101,IP,5.39.219.187,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+102,IP,5.39.219.188,,,,,,,,,Administration Server,,,,No,Yes,No,No,No,No,No,No
+103,URL,,,,https://pastebin.com/raw/wdcq0Tda,,,,,,Payload URL,,,,No,Yes,No,No,No,No,No,No
+104,URL,,,,https://pastebin.com/raw/9ditgTZh,,,,,,Payload URL,,,,No,Yes,No,No,No,No,No,No
+105,URL,,,,https://pastebin.com/Mzd1HFrN,,,,,,Payload URL,,,,No,Yes,No,No,No,No,No,No
+106,Account,,terminal,,,,,,,,Account Name,,,,No,Yes,No,No,No,No,No,No
+107,IP,176.126.85.207,,,,,,,,,C2,,,,,,,,,No,No,No
+108,Account,,,HuHuHUHoHo283283@dJD,,,,,,,Password Value,,,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
