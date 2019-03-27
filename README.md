@@ -11,6 +11,11 @@ Spoken languages: EN, FR
 You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 ## My Work
+
+- ...
+
+- Curated list of LockerGoga IOCs populated from OSINT sources [EN] [CSV;Separator:Comma](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190327-IOC-LOCKERGOGA.csv)
+
 - Translation of "Public elements of French military doctrine of offensive computer warfare" [FR -> EN] [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190119_PDF_TR-FR-EN_Public-elements-of-French-military-doctrine-of-offensive-computer-warfare.pdf)
 
 - Investigations against Russian Interference in US Presidential Elections: Mueller Indictment Mapping GRU Units 74455 & 26165 [EN] [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20180716_PDF_MIM-Mueller-Indictment-Mapping-GRU-Units-74455-%26-26165_SwitHak.pdf)
