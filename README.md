@@ -14,7 +14,7 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 - ...
 
-- CVE-2019-0708 aka BlueKeep Blueteam cheatsheet[EN] [Post](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190406-BT_CVE-2019-0708_BlueKeep.md)
+- CVE-2019-0708 aka BlueKeep Blueteam cheatsheet[EN] [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190406-BT_CVE-2019-0708_BlueKeep.md)
 
 - Curated list of LockerGoga IOCs populated from OSINT sources [EN] [CSV;Separator:Comma](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190327-IOC-LOCKERGOGA.csv)
 
