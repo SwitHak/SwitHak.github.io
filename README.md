@@ -14,6 +14,8 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 - ...
 
+- CVE-2019-0708 aka BlueKeep Blueteam cheatsheet[EN] [](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190406-BT_CVE-2019-0708_BlueKeep.md)
+
 - Curated list of LockerGoga IOCs populated from OSINT sources [EN] [CSV;Separator:Comma](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190327-IOC-LOCKERGOGA.csv)
 
 - Translation of "Public elements of French military doctrine of offensive computer warfare" [FR -> EN] [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190119_PDF_TR-FR-EN_Public-elements-of-French-military-doctrine-of-offensive-computer-warfare.pdf)
