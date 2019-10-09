@@ -14,6 +14,8 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 - ...
 
+- 5G, new telecommunications standards, Between opportunities and Risks - Jeunes IHEDN [EN] [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190908-5G-Between-opportunities-and-risks_%40SwitHak_FINALE.pdf)
+
 - CVE-2019-0708 aka BlueKeep Blueteam cheatsheet[EN] [Link to view](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190406-BT_CVE-2019-0708_BlueKeep.md)
 
 - Curated list of LockerGoga IOCs populated from OSINT sources [EN] [CSV;Separator:Comma](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190327-IOC-LOCKERGOGA.csv)
