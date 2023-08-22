@@ -14,6 +14,8 @@ You can find me on Twitter: [@SwitHak](https://twitter.com/SwitHak/)
 
 - ...
 
+- Hacktivists in Ukraine-Russia Conflict [EN] [Link to view](https://swithak.github.io/Pub/20230815-TLP-WHITE_Hacktivists-in-UA-RU-Conflict)
+
 - Сайтэк (SyTech) leak analysis [EN] [Link to view](https://swithak.github.io/Pub/20210207_LEAKANALYSIS-SyTech-By-%40SwitHak)
 
 - 5G, new telecommunications standards, Between opportunities and Risks - Jeunes IHEDN [EN] [Format PDF](https://github.com/SwitHak/SwitHak.github.io/blob/master/Pub/20190908-5G-Between-opportunities-and-risks_%40SwitHak_FINALE.pdf)
